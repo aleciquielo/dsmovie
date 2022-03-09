@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "\\public",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\MovieCard",
+    "\\src\\Components\\MovieScore",
+    "\\src\\Components\\MovieStars",
+    "\\src\\Components\\Navbar",
+    "\\src\\Components\\PAgination",
+    "\\src\\Pages",
+    "\\src\\Pages\\Form",
+    "\\src\\recursos"
+  ],
+  "PreviewInSolutionExplorer": false
+}
